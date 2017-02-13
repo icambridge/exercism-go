@@ -1,0 +1,4 @@
+Exercism Go
+===========
+
+Some exercises
